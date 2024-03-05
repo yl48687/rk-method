@@ -4,7 +4,7 @@ import java.lang.Math;
  * Calculates the values of k1, k2, k3, and  k4 to approximate
  * tempty with the RK-method of order 4 with h = 0.4.
  */
-public class Question1 {
+public class RKMethod {
     /**
      * Evaluates dydt = f(t, y).
      *
