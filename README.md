@@ -5,7 +5,7 @@ This Java program calculates the values of `k1`, `k2`, `k3`, and `k4` to approxi
 The program consists of a single class `RKMethod` implementing the RK-method of order 4.
 
 ## Functionality
-`RKMethod.java`:
+`RKMethod`:
 - Contains the main logic for calculating the RK-method.
 - Defines two methods: `f(double t, double y)` and `rk4(double t, double y, double h)`.
 - Uses `Math.sqrt()` and basic arithmetic operations to calculate the derivative and approximate `y`.
